@@ -1,0 +1,13 @@
+fever,cough,fatigue,body_pain,label
+1,1,1,1,Flu-like pattern
+1,1,0,0,Flu-like pattern
+1,0,1,1,Flu-like pattern
+0,0,1,0,Common cold-like pattern
+0,1,0,0,Common cold-like pattern
+0,1,1,0,Common cold-like pattern
+0,0,0,0,No symptoms in demo
+0,0,0,1,No symptoms in demo
+1,0,0,0,Flu-like pattern
+0,1,0,1,Common cold-like pattern
+1,1,1,0,Flu-like pattern
+0,0,1,1,Common cold-like pattern
